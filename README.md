@@ -32,7 +32,8 @@ go
 IF OBJECT_ID('dbo.Rental_Expenses', 'U') IS NOT NULL
 DROP TABLE dbo.Rental_Expenses;
 go
-IF OBJECT_ID('dbo.Property_Amenity', 'U') IS NOT NULL
+IF OBJECT_ID('dbo.Property_Amenity', 'U') IS NOT NULL[ProjectMileStone 2 Mahboobeh Hosseini (1).pdf](https://github.com/mahboobe3/IST-659-Data-Admin-Concepts-Db-Mgmt/files/9256571/ProjectMileStone.2.Mahboobeh.Hosseini.1.pdf)
+
 DROP TABLE dbo.Property_Amenity;
 go
 IF OBJECT_ID('dbo.Amenities', 'U') IS NOT NULL
